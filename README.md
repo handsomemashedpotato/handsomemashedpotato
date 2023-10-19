@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on some projects in PHP and Flutter
+
 <!--
 **handsomemashedpotato/handsomemashedpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
