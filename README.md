@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🔥
+
+Current habit:
+Code 💻, eat 🍚, poop 💩, sleep 💤, repeat 🔁
 
 🔭 I’m currently working on some projects in PHP and Flutter
 
